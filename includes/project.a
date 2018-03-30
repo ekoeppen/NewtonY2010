@@ -1,0 +1,1 @@
+;;	project.a;;	project definitions for Patch 717260;;BaseAddrPatch1	EQU 0x01D80000BaseAddrPatch2	EQU 0x01AE0000BaseAddrPatch3	EQU 0x01B40000BaseAddrPatch4	EQU 0x01A8C000BaseAddrPatch5	EQU 0x01BAC000BaseAddrPatch6	EQU 0x01C11000BaseAddrPatch7	EQU 0x01DA0000BaseAddrRExPatch	EQU 0x01E00000		END

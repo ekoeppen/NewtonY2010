@@ -1,0 +1,1 @@
+constant kPatchVersion      := 0x00010005;constant kPatchManufacturer := 0x01000000; // Appleconstant kMachineType       := 0x10003000; // MP 2x00constant kBaseROMVersion    := 0x00020002; // NOS 2.1constant kBaseROMStage      := 0x00008000; // ?constant kREx0Version       := 0x00020000;
